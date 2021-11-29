@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"bu","email":"bu@ya.ru"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/rVisualSample118F63583603487791208F4FB8B1D475.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"rVisualSample","displayName":"rVisualSample","guid":"rVisualSample118F63583603487791208F4FB8B1D475","visualClassName":"Visual","version":"1.0.0","description":"some description","supportUrl":"myurl.com","gitHubUrl":"https://github.com/doka-guide/content"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

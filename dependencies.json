@@ -1,0 +1,9 @@
+{
+  "cranPackages": [
+    {
+      "name": "corrplot",
+      "displayName": "corrplot",
+      "url": "https://cran.r-project.org/web/packages/corrplot/"
+    }
+  ]
+}
